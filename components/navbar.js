@@ -85,7 +85,7 @@ class CustomNavbar extends HTMLElement {
       <nav>
         <a href="/" class="logo">
           <i data-feather="eye" class="w-5 h-5 text-red-500"></i>
-          STALKER'S GAZE
+          THE FEAR OF STALKING
         </a>
         <div class="nav-links">
           <a href="#features" class="nav-link">FEATURES</a>
@@ -97,5 +97,6 @@ class CustomNavbar extends HTMLElement {
     `;
   }
 }
+
 
 customElements.define('custom-navbar', CustomNavbar);
