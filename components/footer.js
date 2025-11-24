@@ -100,11 +100,12 @@ class CustomFooter extends HTMLElement {
         </div>
         
         <p class="copyright">
-          © 2023 Stalker's Gaze. All rights reserved. All horrors are real.
+          © 2025 Sigma games. All rights reserved.
         </p>
       </div>
     `;
   }
 }
+
 
 customElements.define('custom-footer', CustomFooter);
